@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sqlite_App</string>
+    <string name="please_enter_the_details_below">Please enter the details below</string>
+</resources>
